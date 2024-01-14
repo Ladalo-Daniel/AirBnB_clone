@@ -76,5 +76,5 @@ You need to install this software
 ```
 
 ## Authors
-* Engineer Rose
-* Engineer Daniel
+* Mbonu Onyinye Rose
+* Ladalo Daniel
